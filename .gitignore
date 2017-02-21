@@ -1,3 +1,5 @@
 .idea/
 data/
 /code/stests.py
+/code/__pycache__
+/code/debug.log

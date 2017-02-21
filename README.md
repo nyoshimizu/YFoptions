@@ -10,7 +10,7 @@ An object is created for each equity which stores the options contracts informat
 
 ```python
 from code import options
-equityoptions = options("XYZ")
+XYZoptions = options("XYZ")
 ```
 
 The object has three important variables.
@@ -48,10 +48,10 @@ Therefore, typical usage will consist of:
 
 ```python
 from code import options
-myoptions = options.("XYZ")
-myoptions.getdates()
-myoptions.getoptionschain()
-myoptions.writedata()
+XYZoptions = options("XYZ")
+XYZoptions.getdates()
+XYZoptions.getoptionschain()
+XYZoptions.writedata()
 ```
 
 # Requirements
