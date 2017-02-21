@@ -53,7 +53,7 @@ XYZoptions.getdates()
 XYZoptions.getoptionschain()
 XYZoptions.writedata()
 ```
-asdf
+
 # Requirements
 This code requires Selenium and Beautiful Soup
 ChromeDriver is by Selenium, and should be downloaded. The code assumes it is located at
